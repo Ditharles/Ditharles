@@ -19,7 +19,7 @@
 
 🔹 [**PFE_IresCoMath**](https://github.com/Ditharles/PFE_IresCoMath)  
 > Plateforme web de gestion des demandes administratives et scientifiques pour un laboratoire.  
-*Stack : Next.js, Express, Prisma, PostgreSQL*  
+*Stack : React, Express, Prisma, PostgreSQL*  
 
 🔹 [**Air-ticket-price-prediction**](https://github.com/Ditharles/Air-ticket-price-prediction)  
 > Application de **prédiction du prix des billets d’avion** à partir de données collectées et analysées.  
