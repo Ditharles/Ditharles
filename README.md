@@ -18,7 +18,7 @@
   &nbsp;
 </p>
 
-<h3 align="center">🌌 The Arsenal</h3>
+<h3 align="center">🌌 Arsenal</h3>
 
 <p align="center">
   <!-- Web Development -->
